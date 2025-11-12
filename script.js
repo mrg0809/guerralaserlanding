@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
  * Uncomment the code below to enable particle animation
  */
 
-/*
+
 function createParticles() {
     const particleContainer = document.querySelector('.background-animation');
     const particleCount = 50;
@@ -149,7 +149,7 @@ document.head.appendChild(style);
 
 // Initialize particles on page load
 document.addEventListener('DOMContentLoaded', createParticles);
-*/
+
 
 // ================================
 // CONSOLE MESSAGE
